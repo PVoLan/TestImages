@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="android.widget.ImageView"/>
+<fullyQualifiedTypeName name="android.util.DisplayMetrics"/>
+<fullyQualifiedTypeName name="android.graphics.BitmapFactory"/>
+<fullyQualifiedTypeName name="test.test.R.id"/>
+<fullyQualifiedTypeName name="test.test.R.drawable"/>
+<fullyQualifiedTypeName name="android.graphics.Bitmap"/>
+</qualifiedTypeNameHistroy>
