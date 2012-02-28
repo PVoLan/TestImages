@@ -78,6 +78,34 @@
 
         </ImageView>
         
+            
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ImageView with src from drawable-mdpi only" />
+
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/image_only_from_mdpi" >
+
+        </ImageView>
+        
+            
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ImageView with src from drawable-hdpi only" />
+
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/image_only_from_hdpi" >
+
+        </ImageView>            
+        
         
         <TextView
             android:layout_width="wrap_content"

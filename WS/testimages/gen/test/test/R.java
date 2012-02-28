@@ -14,8 +14,10 @@ public final class R {
         public static final int ic_launcher=0x7f020000;
         public static final int image_from_drawable=0x7f020001;
         public static final int image_from_drawable_somedpi=0x7f020002;
-        public static final int image_only_from_ldpi=0x7f020003;
-        public static final int text_bg=0x7f020004;
+        public static final int image_only_from_hdpi=0x7f020003;
+        public static final int image_only_from_ldpi=0x7f020004;
+        public static final int image_only_from_mdpi=0x7f020005;
+        public static final int text_bg=0x7f020006;
     }
     public static final class layout {
         public static final int main=0x7f030000;
